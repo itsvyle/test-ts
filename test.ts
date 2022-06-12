@@ -7,3 +7,5 @@ class test {
     }
 }
 let w = new test();
+// 1
+console.log(1);
